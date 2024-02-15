@@ -1,18 +1,24 @@
-Hi, my name is Jonas Severing ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-======================================================================================================================================
+<h1 align="center">
+  Hi, my name is Jonas Severing !
+</h1>
 
-Web developer
+<h2 align="center">Web developer</h3>
+
+<ul align="center">
+  <li>🌍  I'm based in Germany</li>
+</ul>
+
+<p align="center">
+  <a href="https://www.github.com/jon5eve" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/jon5eve?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+</p>
+
 -------------
 
-*   🌍  I'm based in Germany
+<h3 align="center">Core</h3>
 
-<a href="https://www.github.com/jon5eve" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/jon5eve?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
-### Core
-
-<p align="left">
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
@@ -33,10 +39,11 @@ Web developer
   </a>
 </p>
 
+-------------
   
-### Frontend
+<h3 align="center">Frontend</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
   </a>
@@ -60,10 +67,11 @@ Web developer
   </a>
 </p>
 
-  
-### Backend & Databases
+-------------
 
-<p align="left">
+<h3 align="center">Backend & Databases</h3>
+
+<p align="center">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   </a>
@@ -81,10 +89,11 @@ Web developer
   </a>
 </p>
 
+-------------
   
-### Deployment & Development
+<h3 align="center">Deployment & Development</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />
   </a>
@@ -99,10 +108,11 @@ Web developer
   </a>
 </p>
 
-  
-### Design
+-------------
 
-<p align="left">
+<h3 align="center">Design</h3>
+
+<p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
@@ -110,10 +120,12 @@ Web developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" />
   </a>
 </p>
-                    
-### Socials
-                                
- <p align="left">
+
+-------------
+ 
+<h3 align="center">Socials</h3>  
+
+ <p align="center">
   <a href="https://www.github.com/jon5eve" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -129,9 +141,11 @@ Web developer
      </picture> 
    </a>
  </p>
+
+ -------------
  
- ### Badges
- 
+ <h3 align="center">Badges</h3>  
+
  <a href="http://www.github.com/jon5eve">
    <img src="https://github-readme-stats.vercel.app/api?username=jon5eve&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jon5eve's GitHub stats" />
  </a>
